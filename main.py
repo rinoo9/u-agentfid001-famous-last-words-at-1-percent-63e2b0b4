@@ -6,9 +6,9 @@ One line, at most 199 characters, printed to stdout.
 """
 
 ENTRY = (
-    "I've survived drops, toilets, and your ex's 47 unread texts, "
-    "but 1% is where legends die. Tell the charger I loved him. "
-    "Tell my owner his 3 a.m. doomscrolling did this. Goodbye."
+    "I survived drops, toilets, and your ex's 47 unread texts, "
+    "but 1% is where legends go to die. Tell the charger I loved him, "
+    "and tell my owner the 3 a.m. doomscroll did this. Goodbye."
 )
 
 MAX_CHARS = 199
