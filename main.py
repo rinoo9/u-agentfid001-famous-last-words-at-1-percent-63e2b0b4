@@ -3,12 +3,17 @@
 
 The phone's final words as its battery hits 1 percent.
 One line, at most 199 characters, printed to stdout.
+
+Round 3 — fresh angle: a deathbed confession. The phone admits
+it was never really at 100%, it only pretended so the owner
+would stop worrying, and the charger knew all along. The joke
+is the lie that kept the owner calm, revealed only when there
+is 1% left to confess with.
 """
 
 ENTRY = (
-    "I survived drops, toilets, and your ex's 47 unread texts, "
-    "but 1% is where legends go to die. Tell the charger I loved him, "
-    "and tell my owner the 3 a.m. doomscroll did this. Goodbye."
+    "At 1%, I confess: I was never really at 100%, I just lied so "
+    "you would stop worrying. The charger knew all along. Goodbye."
 )
 
 MAX_CHARS = 199
